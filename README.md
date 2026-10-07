@@ -330,11 +330,11 @@ Supporting diagrams are available in the `diagrams` folder:
 
 | Team Member    | Contribution                                                                                                                                                                            |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sathvik (Lead) | Led system design and architecture, worked on interfaces, entities, design patterns, use case diagrams, and contributed to frontend and backend development                             |
-| Jagruthi       | Worked on database configuration, schema and model design, contributed to use case and class diagrams, managed README and documentation, and supported frontend and backend development |
-| Rashmi         | Focused on sequence, ER, and class diagrams, designed system workflows, contributed to entity structuring, assisted in documentation, and contributed to implementation across modules  |
-| Lalith         | Contributed to design patterns, ER diagrams, backend integration, and played a key role in implementation, system-level development, and ensuring smooth module integration             |
-| Nachiket       | Handled database modeling, class diagrams, and frontend development, while actively supporting backend integration, feature implementation, and overall system functionality            |
+| Asim Juna (Lead) | Led system design and architecture, worked on interfaces, entities, design patterns, use case diagrams, and contributed to frontend and backend development                             |
+| Tehreem Fatima       | Worked on database configuration, schema and model design, contributed to use case and class diagrams, managed README and documentation, and supported frontend and backend development |
+| Amna Khalid         | Focused on sequence, ER, and class diagrams, designed system workflows, contributed to entity structuring, assisted in documentation, and contributed to implementation across modules  |
+| Bisma         | Contributed to design patterns, ER diagrams, backend integration, and played a key role in implementation, system-level development, and ensuring smooth module integration             |
+| Mahnoor Hassan       | Handled database modeling, class diagrams, and frontend development, while actively supporting backend integration, feature implementation, and overall system functionality            |
 
 ## Conclusion
 
